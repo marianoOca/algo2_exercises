@@ -1,0 +1,6 @@
+/mnt/c/Users/maria/Desktop/Taller/Algoritmos II/L05-listas_enlazadas/alumnos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/maria/Desktop/Taller/Algoritmos II/L05-listas_enlazadas/alumnos/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/mnt/c/Users/maria/Desktop/Taller/Algoritmos II/L05-listas_enlazadas/alumnos/cmake-build-debug/CMakeFiles/correrTests.dir
+/mnt/c/Users/maria/Desktop/Taller/Algoritmos II/L05-listas_enlazadas/alumnos/cmake-build-debug/CMakeFiles/gtest.dir
+/mnt/c/Users/maria/Desktop/Taller/Algoritmos II/L05-listas_enlazadas/alumnos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/maria/Desktop/Taller/Algoritmos II/L05-listas_enlazadas/alumnos/cmake-build-debug/CMakeFiles/gtest_main.dir

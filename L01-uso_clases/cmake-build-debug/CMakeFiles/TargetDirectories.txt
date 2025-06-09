@@ -1,0 +1,6 @@
+C:/Users/maria/Desktop/Taller/Algoritmos II/L01-uso_clases/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/maria/Desktop/Taller/Algoritmos II/L01-uso_clases/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir
+C:/Users/maria/Desktop/Taller/Algoritmos II/L01-uso_clases/cmake-build-debug/CMakeFiles/tests_algobot.dir
+C:/Users/maria/Desktop/Taller/Algoritmos II/L01-uso_clases/cmake-build-debug/CMakeFiles/gtest.dir
+C:/Users/maria/Desktop/Taller/Algoritmos II/L01-uso_clases/cmake-build-debug/CMakeFiles/gtest_main.dir
+C:/Users/maria/Desktop/Taller/Algoritmos II/L01-uso_clases/cmake-build-debug/CMakeFiles/edit_cache.dir

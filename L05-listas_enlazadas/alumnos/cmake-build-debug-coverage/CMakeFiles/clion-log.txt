@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_FLAGS=--coverage -DCMAKE_C_FLAGS=--coverage -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/maria/Desktop/Taller/Algoritmos II/L05-listas_enlazadas/alumnos"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/maria/Desktop/Taller/Algoritmos II/L05-listas_enlazadas/alumnos/cmake-build-debug-coverage

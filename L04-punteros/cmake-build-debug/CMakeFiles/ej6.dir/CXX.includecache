@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/ConexionJugador.h
+Internet.h
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/Internet.h
+string
+-
+
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/Internet.h
+list
+-
+utility
+-
+string
+-
+
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/Proxy.h
+ConexionJugador.h
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/ConexionJugador.h
+string
+-
+
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/Proxy2.cpp
+Proxy2.h
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/Proxy2.h
+
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/Proxy2.h
+ConexionJugador.h
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/ConexionJugador.h
+string
+-
+
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/SistemaDeMensajes.cpp
+SistemaDeMensajes.h
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/SistemaDeMensajes.h
+
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/SistemaDeMensajes.h
+ConexionJugador.h
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/ConexionJugador.h
+string
+-
+vector
+-
+Proxy.h
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/Proxy.h
+Proxy2.h
+C:/Users/maria/Desktop/Taller/Algoritmos II/L04-punteros/src/Proxy2.h
+
